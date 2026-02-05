@@ -1,5 +1,8 @@
 **This notebook presents an end-to-end analysis of an E-Commerce transactions dataset, which contains actual sales data from a UK-based online retailer.**
 
+Kaggle Link: https://www.kaggle.com/code/aditi362singh/e-commerce-data , 
+here you can check my Project work also.
+
 The analysis covers the complete data workflow, including:
 
 1. Understanding the dataset structure
